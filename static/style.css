@@ -1,0 +1,28 @@
+body{
+   background:linear-gradient(#737373,#666666#4d4d4d);
+}
+
+
+form{
+    display:inline-block;
+}
+
+.counterbox{
+    width:500px;
+    height:500px;
+    display:inline-block;
+    text-align:center;
+    background:linear-gradient(#944dff,#8533ff,#751aff);
+    border: 2px solid black;
+    padding-top:100px;
+    margin-top:125px;
+    color:#d9d9d9;
+}
+
+.row {
+    padding-top:20px;
+}
+
+input{
+    background-color:#4d4d4d;
+}
